@@ -8,5 +8,6 @@ h1 {
 
 p {
   font-family: Curlz MT;
-  font-size: 20px
+  font-size: 20px;
+  text-align: left;
 }
