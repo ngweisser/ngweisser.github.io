@@ -10,13 +10,20 @@ h2 { color: white;
      font-size: 20px
 }
 h3 { color: white;
-  text-align: left;
+  text-align: center;
      font-size: 20px
 }
 h4 { color: white;
-     font-size: 20px
+  text-align: center;
+  font-size: 18px
 }
-
+h5 { color: white;
+  text-align: center;
+  font-size: 15px
+}
+h6 { color: white;
+  text-align: center;
+  font-size: 10px
 
 p {
   font-size: 10px;
