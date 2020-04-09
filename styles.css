@@ -1,6 +1,6 @@
 body {
   background-color: Pink;
-  border-color: Hotpink;
+  outline-color: hotpink;
 }
 h1 {
   color: white;
@@ -27,6 +27,6 @@ h6 { color: white;
   font-size: 10px
 }
 p {
-  font-size: 15px;
+  font-size: 20px;
   color: white;
 }
